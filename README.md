@@ -104,3 +104,5 @@ To access the swagger API endpoints, use:
    
     <img alt="Enter psql $DATABASE_URL and click Run" src="https://user-images.githubusercontent.com/1119017/150206174-43193825-1afd-49f4-aeaf-cfadf0c0c6f3.png" width="400" />
 
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-ScottUCSB/branch/master/graph/badge.svg?token=tCuH8FyCEo)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-ScottUCSB)
