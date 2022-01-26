@@ -2,7 +2,7 @@
 * my repo is here: https://github.com/ucsb-cs156-w22/jpa03-ScottUCSB
  
  Storybook is here:
-* Production: <https://ucsb-cs156-w22.github.io/jpa03-ScottUCSB-docs/storybook>
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-ScottUCSB-docs/>
 * QA:  <https://ucsb-cs156-w22.github.io/jpa03-ScottUCSB-docs-qa/>
 
 
