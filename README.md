@@ -1,4 +1,4 @@
-# demo-spring-react-example: dsre
+# jpa03-ScottUCSB
 * my repo is here: https://github.com/ucsb-cs156-w22/jpa03-ScottUCSB
  
  Storybook is here:
