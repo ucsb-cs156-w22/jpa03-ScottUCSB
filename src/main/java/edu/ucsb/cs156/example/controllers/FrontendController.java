@@ -12,3 +12,7 @@ public class FrontendController {
     return "forward:/index.html";
   }
 }
+
+
+
+
