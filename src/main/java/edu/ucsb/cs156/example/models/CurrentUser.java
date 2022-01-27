@@ -20,3 +20,8 @@ public class CurrentUser {
   private User user;
   private Collection<? extends GrantedAuthority> roles;
 }
+  
+
+
+
+
